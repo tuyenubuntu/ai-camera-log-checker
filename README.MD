@@ -41,7 +41,7 @@ pip install pyqt5 pandas numpy opencv-python matplotlib
    ```
 4. Run the application:
    ```bash
-   python main.py
+   python Logfile_Evaluation_Tool.py
    ```
 
 ## Usage
